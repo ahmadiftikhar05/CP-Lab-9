@@ -1,0 +1,6 @@
+﻿  Source2.cpp
+C:\Users\Student\Desktop\Project13\Source2.cpp(25,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Student\Desktop\Project13\Source2.cpp(51,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source1.obj : error LNK2005: main already defined in Source.obj
+Source2.obj : error LNK2005: main already defined in Source.obj
+C:\Users\Student\Desktop\Project13\x64\Debug\Project13.exe : fatal error LNK1169: one or more multiply defined symbols found
